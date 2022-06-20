@@ -1,6 +1,6 @@
 # MovieLens Recommender: What to watch next?
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josumsc/movielens-recommender/blob/master/src/movielens-recommeder.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josumsc/movielens-recommender/blob/master/src/movielens-recommender.ipynb)
 
 Analysis of the data located at [Kaggle MovieLens 100K](https://www.kaggle.com/datasets/rajmehra03/movielens100k?select=ratings.csv) 
 and building of a recommender system using PyTorch embeddings to infer the latent factors
