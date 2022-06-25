@@ -20,3 +20,4 @@ Please note that I've used a M1 Mac, so the installation might suffer from some 
 
 - [Deep Learning for Coders with fastai and PyTorch](www.course.fast.ai)
 - [Google - Recommendation Systems - Collaborative Filtering](https://developers.google.com/machine-learning/recommendation/collaborative/basics)
+- [LSTM for Real Time Recommendation Systems](https://bond-kirill-alexandrovich.medium.com/lstm-for-real-time-recommendation-systems-f5191d564be5)
